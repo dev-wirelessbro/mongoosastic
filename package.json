@@ -1,8 +1,8 @@
 {
   "author": "James R. Carr <james.r.carr@gmail.com> (http://blog.james-carr.org)",
-  "name": "mongoosastic",
+  "name": "@lettopia/mongoosastic",
   "description": "A mongoose plugin that indexes models into elastic search",
-  "version": "4.4.1",
+  "version": "4.4.1-0",
   "tags": [
     "mongodb",
     "elasticsearch",
